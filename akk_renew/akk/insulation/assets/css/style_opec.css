@@ -69,7 +69,13 @@
 /*------------------------------
  82_食品向け展示会「フードテックジャパン2021」に出展しました
 ------------------------------*/
+:root {
+    --color-deep-blue: #0095FF;
+}
 
+.text-deep-blue {
+    color: var(--color-deep-blue);
+}
 @media screen and (min-width: 992px) {}
 
 @media (hover: hover) {}
