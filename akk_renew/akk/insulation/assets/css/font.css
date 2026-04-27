@@ -83,7 +83,7 @@
 }
 
 .ff-shuei-go-gin-std-b {
-  font-family: "DNPShueiGoGinStd-B", sans-serif;
+  font-family: "DNPShueiGoGinStd-B", sans-serif !important;
 }
 
 .ff-shuei-go-kin-std-l {
