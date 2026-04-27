@@ -62,7 +62,12 @@
  81_食品向け展示会「フードテックジャパン2020」に出展しました
 ------------------------------*/
 
-@media screen and (min-width: 992px) {}
+@media screen and (min-width: 992px) {
+    .fair-trade img{
+        width: 846px;
+        height: 558px;
+    }
+}
 
 @media (hover: hover) {}
 
