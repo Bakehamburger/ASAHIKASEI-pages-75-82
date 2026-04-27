@@ -13,7 +13,16 @@
 認定番号更新に併せて「ネオマフォーム鉄骨造向けカタログ」を改訂しました。
 ------------------------------*/
 
-@media screen and (min-width: 992px) {}
+@media screen and (min-width: 992px) {
+  .marker-box {
+            display: inline-block;
+            width: 18px;
+            height: 18px;
+            background-color: #432f2f; /* Dark quare */
+            vertical-align: middle;
+            margin-right: 10px;
+        }
+}
 
 @media (hover: hover) {}
 
